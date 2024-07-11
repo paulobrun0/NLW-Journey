@@ -12,9 +12,10 @@ Este repositório contém o código desenvolvido durante minha primeira aula da 
 
 ## Funcionalidades
 
-- Criação de objetos e arrays em JavaScript
-- Manipulação de elementos HTML com JavaScript
-- Utilização de funções arrow para gerar conteúdo dinâmico
+- Criação dinâmica de itens de atividade com checkboxes para marcar como concluído.
+- Manipulação de elementos HTML para exibir informações detalhadas de cada atividade.
+- Seleção de data e hora ao adicionar novas atividades.
+-
 
 ## Como Usar
 
