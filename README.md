@@ -6,9 +6,9 @@ Este repositório contém o código desenvolvido durante minha primeira aula da 
 
 ## Figma
 
-<img src="/Atividades (empty).png.png" />
+<img src="/Atividades (empty).png" />
 <img src="/Atividades.png" />
-<img src="/Atividades-mobile.png.png.png" />
+<img src="/Atividades-mobile.png" />
 
 ## Funcionalidades
 
